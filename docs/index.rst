@@ -70,7 +70,9 @@ Contents
    :maxdepth: 2
 
    style-guide
+   popular-apps/index
    game/index
+  
 
 **********
 References

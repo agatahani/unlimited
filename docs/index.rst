@@ -73,6 +73,7 @@ Contents
    popular-apps/index
    game/index
    ssstiktok/index
+   snaptik/index
   
 
 **********

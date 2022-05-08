@@ -63,4 +63,4 @@ References
 
 .. target-notes::
 
-- _`SnapTik`: https://www.sebuahutas.com/2022/05/download-snaptik-tiktok-video.html
+.. _`SnapTik`: https://www.sebuahutas.com/2022/05/download-snaptik-tiktok-video.html

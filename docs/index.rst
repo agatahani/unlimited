@@ -74,6 +74,7 @@ Contents
    game/index
    ssstiktok/index
    snaptik/index
+   instal-apk/index
   
 
 **********

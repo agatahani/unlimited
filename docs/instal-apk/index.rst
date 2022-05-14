@@ -58,7 +58,8 @@ Bluestack
 
 Bluestack adalah emulator pertama yang sangat direkomendasikan untuk semua pengguna Windows dan MacOS. 
 
-Fitur :
+Fitur:
+
 - Memiliki fitur yang bisa memainkan game secara bersamaan
 - Dapat memutar ulang serta merekam Apapun yang kamu lakukan secara langsung
 - Dapat screen recording
@@ -68,7 +69,8 @@ Genymotion
 
 Jadi motion merupakan emulator rekomendasi kedua yang yang paling banyak dikenal karena na serta menguji aplikasi pada Smartphone atau tablet Android kamu.
 
-Fitur : 
+Fitur:
+
 - Memiliki kompatibilitas yang sangat tinggi
 - Dapat melakukan pengujian produk pada lingkungan virtual untuk Linux
 - Merekam screen kets untuk pengguna webcam desktop
@@ -80,7 +82,7 @@ Nox Player
 
 Nox player adalah emulator ketiga yang bisa menjalankan nox Player di berbagai perangkat sehingga memungkinkan penggunanya untuk menjalankan multipleks fungsional.
 
-Fitur :
+Fitur:
 
 - Mempunyai Open keyboard mapping pada keyboard dan Mouse
 - Macro default
@@ -91,7 +93,8 @@ MEmu
 
 Memo adalah emulator Android yang mudah diinstal Intel dan AMD beserta grafis yang sudah terintegrasi.
 
-Fitur :
+Fitur:
+
 - Meningkatkan pengalaman bermain game dengan pemetaan keyboard
 - Virtualisasi
 - Bermain game cepat dengan keyboard khusus
@@ -101,7 +104,8 @@ PrimeOS
 
 PrimeOS merupakan gabungan untuk PC dan Android.
 
-Fitur : 
+Fitur: 
+
 - Memiliki bot ganda
 - Memiliki sistem interface yang menggabungkan ekosistem Android dengan baik
 - Kinerja yang tinggi untuk membandingkan Windows budget sistem
@@ -111,7 +115,8 @@ LD Player
 
 LD player merupakan emulator yang menyediakan banyak sekali fitur yang komprehensif sehingga dapat memenuhi kebutuhan perangkat Android kamu.
 
-Fitur :
+Fitur:
+
 - Mengunduh game dari auditor atau Google Play telah diunduh sebelumnya
 - Bisa mengelola game secara otomatis
 - Memiliki kontrol khusus pada keyboard dan Mouse

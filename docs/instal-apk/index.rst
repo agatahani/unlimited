@@ -49,7 +49,7 @@ Ketika sudah memulai aplikasi tersebut dengan mengklik Start menu maka kamu bisa
 Di dalam aplikasi ini nantinya akan tersedia banyak sekali game Android sehingga kamu bisa dengan mudah menginstalnya seperti kamu menginstallnya di perangkat Android kamu.
 
 6 emulator terbaik yang direkomendasikan
-==================
+--------------------
 
 Ada 6 emulator yang akan kami rekomendasikan. 6 emulator ini merupakan emulator terbaik di pada Tahun 2022.
 

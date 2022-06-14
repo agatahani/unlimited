@@ -76,7 +76,7 @@ Contents
    snaptik/index
    instal-apk/index
    gta-sa-lite/index
-  
+   update-aplikasi/index
 
 **********
 References
@@ -84,4 +84,4 @@ References
 
 .. target-notes::
 
-.. _`Google Play Store`: https://www.sebuahutas.com/2022/04/download-play-store-terbaru-2022.html
+.. _`Google Play Store`: https://www.sebuahutas.com/2022/06/google-play-store-apk-official-download.html

@@ -4,7 +4,7 @@ Cara Instal APK Android dari Luar App Store
 
 Cara install Apk Android dari sumber tidak dikenal sering dianggap sebagai langkah ilegal yang akan membahayakan perangkat kita. Benarkah demikian? Sebenarnya tidak selalu benar, karena pada praktiknya kita tetap bisa install Apk sumber tak dikenal dengan aman.
 
-Artikel ini akan menjelaskan tentang bagaimana cara install aplikasi Android namun berasal dari sumber yang tidak dikenal, artinya aplikasi tersebut tidak diinstal langsung dari `Google Play Store`_. Di dalamnya juga akan memuat tentang hal-hal apa saja yang harus diperhatikan saat install aplikasi dari sumber yang tidak dikenal.
+Artikel ini akan menjelaskan tentang bagaimana cara install aplikasi Android namun berasal dari sumber yang tidak dikenal, artinya aplikasi tersebut tidak diinstal langsung dari `Google`_. Di dalamnya juga akan memuat tentang hal-hal apa saja yang harus diperhatikan saat install aplikasi dari sumber yang tidak dikenal.
 
 Hal yang Harus Diperhatikan Saat Install Aplikasi Dari Sumber yang Tidak Dikenal
 -----------------------
@@ -84,4 +84,4 @@ References
 
 .. target-notes::
 
-.. _`Google Play Store`: https://www.sebuahutas.com/2022/06/google-play-store-apk-official-download.html
+.. _`Google`: https://www.sebuahutas.com/

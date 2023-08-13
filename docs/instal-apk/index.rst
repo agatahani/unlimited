@@ -15,7 +15,7 @@ Pada artikel kali ini kami akan memberikan informasi Bagaimana cara menginstal a
 
 Android merupakan software yang tersedia pada perangkat di telepon seluler yang memiliki sistem operasi, aplikasi kunci dan widdleware. Android sendiri menggunakan bahasa pemrograman yang dikembangkan oleh aplikasi tersebut yang biasa disebut dengan bahasa pemrograman Java. Umumnya aplikasi Android sendiri memiliki client lain seperti email, SMS, peta, browser, kalender, kontak, pesan WhatsApp, dan masih banyak lagi.
 
-Sedangkan aplikasi Android adalah aplikasi atau perangkat lunak yang tersedia di platform Android. Aplikasi-aplikasi tersebut biasanya bisa kamu download di Google Play Store. `Google Play Store`_ sendiri merupakan tempat download yang legal atau resmi sehingga kamu tinggal mencari saja dengan mengetikkan nama aplikasi yang akan kamu Unduh di Kolom pencarian kemudian ketuk tombol install. Dengan demikian aplikasi tersebut bisa langsung muncul di Android kamu.
+Sedangkan aplikasi Android adalah aplikasi atau perangkat lunak yang tersedia di platform Android. Aplikasi-aplikasi tersebut biasanya bisa kamu download di Google Play Store. `Google Play Store <https://www.sebuahutas.com/>`_ sendiri merupakan tempat download yang legal atau resmi sehingga kamu tinggal mencari saja dengan mengetikkan nama aplikasi yang akan kamu Unduh di Kolom pencarian kemudian ketuk tombol install. Dengan demikian aplikasi tersebut bisa langsung muncul di Android kamu.
 
 Lalu, Bagaimana jika kamu ingin sekali memainkan aplikasi di Android pada perangkat komputer kamu?
 
@@ -139,6 +139,4 @@ Terimakasih sobat, semoga membantu!
 
 **Referensi:**
 
-- https://www.sebuahutas.com/2022/03/4-online-android-emulator-terbaik-untuk.html
-- https://www.sebuahutas.com/2022/04/download-play-store-terbaru-2022.html
-- https://www.sebuahutas.com/2022/02/gb-wa-pro-apk-gb-whatsapp-official.html
+- https://www.sebuahutas.com/
